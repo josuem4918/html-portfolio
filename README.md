@@ -1,2 +1,2 @@
 # html-portfolio
-A simple portfolio about myself using nothing but HTML
+A minimalist portfolio showcasing my work and achievements, created entirely with HTML.
